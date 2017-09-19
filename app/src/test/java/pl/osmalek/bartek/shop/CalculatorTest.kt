@@ -80,7 +80,7 @@ class CalculatorTest {
         val products = mapOf(
                 "Ser" to 3,
                 "Mleko" to 3,
-                "Bułka" to 2
+                "Bułka" to 3
         )
 
         val sum = calculator.calculate(products)
